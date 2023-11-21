@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "weather",
-    "slug": "weather",
+    "slug": "weather-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/splash1.png",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
     "splash": {
       "image": "./assets/splash.png",
@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/splash1.png",
         "backgroundColor": "#000000"
-      }
+      },
+      "package": "com.bhupendra.sambare.weatherapp"
     },
     "web": {
       "favicon": "./assets/splash1.png"
