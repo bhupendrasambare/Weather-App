@@ -15,9 +15,11 @@ The Weather App is a simple web application that provides real-time weather info
 
 ## Screenshots
 
-![Splash Screenshot](./images/home.jpeg)
-![Home Screenshot](./images/splash.jpeg)
-![Search Screenshot](./images/search.jpeg)
+<div style="display: flex; justify-content: space-between;">
+  <img src="./images/home.jpeg" alt="Splash Screenshot" width="30%">
+  <img src="./images/splash.jpeg" alt="Home Screenshot" width="30%">
+  <img src="./images/search.jpeg" alt="Search Screenshot" width="30%">
+</div>
 
 
 ## Installation
